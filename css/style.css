@@ -3,7 +3,13 @@ background-color: #eeeeee;
 }
 
 h1 {
-    font-family: Segoe UI;
+    font-family:'Franklin Gothic Medium';
     font-size: 40pt;
     text-align: center;
+    font-style:italic;
+}
+
+h3 {
+font-family: calibri;
+text-align: center
 }
