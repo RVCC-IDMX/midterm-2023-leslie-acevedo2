@@ -19,3 +19,7 @@ h3 {
 font-family: calibri;
 text-align: left;
 }
+
+#gallery img {
+    display:grid;
+}
