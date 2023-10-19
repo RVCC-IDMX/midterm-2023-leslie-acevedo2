@@ -21,7 +21,7 @@ text-align: left;
 }
 
 #img {
-    max-height: 500px;
+    max-height: 480px;
     max-width: 620px;;
     display:grid;
 }
