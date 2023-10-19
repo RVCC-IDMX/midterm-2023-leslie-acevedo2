@@ -20,7 +20,7 @@ font-family: calibri;
 text-align: left;
 }
 
-#gallery img {
+#img {
     max-height: 400px;
     max-width: 620px;;
     display:grid;
