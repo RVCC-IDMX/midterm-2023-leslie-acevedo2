@@ -16,7 +16,7 @@ h2 {
     color:#f18973;
     border-width: 5px;
     width: 300px;
-    align-items: center;
+    align-content: center;
 }
 p {
     font-family: sans-serif;
