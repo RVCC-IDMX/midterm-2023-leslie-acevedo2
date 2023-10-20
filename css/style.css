@@ -26,6 +26,6 @@ font-size: 18pt;
 img {
     max-height: 300px;
     max-width: 400px;;
-    display:column;
+    display:row;
     align-items:center;
 }
