@@ -1,5 +1,5 @@
 body {
-    background-color: #eeeeee;
+    background-color: #d6cbd3;
     }
 
 h1 {
@@ -11,8 +11,7 @@ h1 {
 
 p {
     font-family: sans-serif;
-    font-size: 18pt;
-    text-align: center;
+    font-size: 15pt;
 }
 
 h3 {
@@ -23,5 +22,6 @@ text-align: left;
 img {
     max-height: 400px;
     max-width: 500px;;
-    display:grid;
+    display:flex;
+    align-items:center;
 }
