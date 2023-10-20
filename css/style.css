@@ -27,6 +27,6 @@ img {
     max-height: 280px;
     max-width: 380px;;
     display:row;
-    align-items:center;
+    align-content: center;
     margin:.5em;
 }
