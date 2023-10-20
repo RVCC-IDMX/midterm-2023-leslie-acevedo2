@@ -11,17 +11,19 @@ h1 {
 
 p {
     font-family: sans-serif;
-    font-size: 15pt;
+    font-size: 18pt;
+    text-align: center;
 }
 
-h3 {
+h3 , ul {
 font-family: calibri;
 text-align: left;
+font-size: 18pt;
 }
 
 img {
-    max-height: 400px;
-    max-width: 500px;;
+    max-height: 300px;
+    max-width: 400px;;
     display:flex;
     align-items:center;
 }
