@@ -17,6 +17,7 @@ h2 {
     border-width: 5px;
     width: 300px;
     align-content: center;
+    font-style:underline;
 }
 p {
     font-family: sans-serif;
