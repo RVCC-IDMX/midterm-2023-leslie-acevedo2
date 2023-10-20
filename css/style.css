@@ -11,8 +11,10 @@ h1 {
 }
 
 h2 {
+    border: 0 solid #black;
     text-align:center;
     color:#f18973;
+    border-width: 15px;
 }
 p {
     font-family: sans-serif;
